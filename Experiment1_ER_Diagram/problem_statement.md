@@ -24,6 +24,7 @@ FlexiFit Gym wants a database to manage its members, trainers, fitness programs,
 - Payments are tracked for memberships and personal training sessions.
 
 ## ER Diagram
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/21512bc1-3137-411f-a7b5-90b8935b7925" />
 
 
 ---
